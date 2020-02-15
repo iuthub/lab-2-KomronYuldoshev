@@ -1,0 +1,33 @@
+body {
+	padding:0;
+	margin: 0;
+	background-color: 746D28;
+	/*background-image: url(back.jpg);
+	background-position: cover;
+	background-size: 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;*/
+}
+img {
+	width: 250px;
+	height: 250px;
+}
+p{
+	color: white;
+}
+ul{
+	color: white;
+}
+ol{
+	color: white;
+	text-decoration: none;
+}
+.info{
+	color: gold;
+}
+h1{
+	color: 06CBE2;
+}
+h2{
+	color: 06CBE2;
+}
